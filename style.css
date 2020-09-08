@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(8, 87, 189); 
+    align-content: center;
+    text-align: center;
+} 
+.ed {
+    color: red;
+}
+.hobbies {
+    color: #f00d64;
+} 
+.center {
+    color: red;
+}
+#para {
+    color: rgb(218, 204, 11);
+}
+#text {
+    text-align: center;
+} 
